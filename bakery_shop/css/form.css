@@ -1,0 +1,55 @@
+.form{
+    padding: 10px;
+    margin-left: 30%; 
+	  width: 45%;  
+	  border: 0px solid #ccc;
+    border-radius: 30px;
+    padding: 10px;
+    border-bottom: 3px solid ;
+    background: rgba(172, 167, 161, 0.082);
+}
+input {
+    width: 100%;
+    border: 0px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    border-bottom: 3px solid ;
+    background: rgba(217, 158, 70, 0.00);
+  }
+  input:hover{
+    width: 100%;
+    border: 0px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    border-bottom: 3px solid ;
+    background: rgba(217, 158, 70, 0.00);
+
+  }
+  
+  input[type="submit"]{
+    background-color: lightgreen;
+    color: rgb(12, 10, 10);
+    border: 2px solid rgb(115, 228, 115) ;
+    border-radius: 10%;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 100%;    
+    font-size: 1.5em; 
+    font-family: times new roman;
+      
+  }
+  td{
+    padding: 10px;
+ }
+ td:first-child {
+   text-align:right;
+   font-weight: bold;
+ }
+ td{
+    text-align: left;
+ }
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
