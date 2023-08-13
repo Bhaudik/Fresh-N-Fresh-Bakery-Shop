@@ -16,7 +16,7 @@ Welcome to the Fresh-N-Fresh Bakery Shop! 🧁🍰
 
 At Fresh-N-Fresh Bakery Shop, we believe in creating delightful moments with our delicious treats. Our bakery is a place where passion for baking and love for flavors come together. Whether you're craving a mouthwatering cake for a special occasion or a basket of fresh pastries to brighten up your day, we've got you covered.
 
-![About Us](https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop/blob/main/Scrren%20Shorts/About%20us.png)
+![About Us](https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop/raw/main/Screen%20Shorts/About%20us.png)
 
 
 ## Menu
