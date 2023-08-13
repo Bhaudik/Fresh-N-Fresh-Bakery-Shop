@@ -2,7 +2,10 @@
 
 Welcome to the Fresh-N-Fresh Bakery Shop! 🧁🍰
 
-![Fresh-N-Fresh Bakery Shop](<img src="https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop/blob/main/Scrren%20Shorts/home">)
+![Fresh-N-Fresh Bakery Shop]()
+<div>
+  <img src="https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop/blob/main/Scrren%20Shorts/home.png">
+</div>
 
 ## Table of Contents
 
