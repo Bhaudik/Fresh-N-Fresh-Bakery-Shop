@@ -2,7 +2,7 @@
 
 Welcome to the Fresh-N-Fresh Bakery Shop! 🧁🍰
 
-![Fresh-N-Fresh Bakery Shop](Scrren Shorts/home.png)
+![Fresh-N-Fresh Bakery Shop](<img src="https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop/blob/main/Scrren%20Shorts/home.png">)
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Welcome to the Fresh-N-Fresh Bakery Shop! 🧁🍰
 
 At Fresh-N-Fresh Bakery Shop, we believe in creating delightful moments with our delicious treats. Our bakery is a place where passion for baking and love for flavors come together. Whether you're craving a mouthwatering cake for a special occasion or a basket of fresh pastries to brighten up your day, we've got you covered.
 
-![About Us](https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop/raw/main/Screen%20Shorts/About%20us.png)
+![About Us](<img src="https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop/raw/main/Screen%20Shorts/About%20us.png">)
 
 
 ## Menu
@@ -24,7 +24,7 @@ At Fresh-N-Fresh Bakery Shop, we believe in creating delightful moments with our
 Indulge in a wide variety of delectable treats from our menu. Each item is carefully crafted to tantalize your taste buds. Our menu includes:
 
 ### Cakes
-
+![Menu](<img src="https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop/blob/main/Scrren%20Shorts/menu.png">)
 - Classic Chocolate Cake
 - Red Velvet Dream
 - Strawberry Shortcake
@@ -59,7 +59,7 @@ Indulge in a wide variety of delectable treats from our menu. Each item is caref
 
 Indulge your eyes in our visually appealing gallery of baked goodies. Each item is a masterpiece crafted with care and dedication. From cupcakes that melt in your mouth to artisanal bread that's both crusty and soft, our gallery showcases the artistry that goes into every bake.
 
-![Gallery](https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop/blob/main/Scrren%20Shorts/Gallary.png)
+![Gallery](<ing src="https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop/blob/main/Scrren%20Shorts/Gallary.png">)
 
 ## Feedback
 
@@ -88,6 +88,6 @@ Feel free to visit our shop during our opening hours:
 
 We look forward to serving you the finest baked goods made with love and passion.
 
-![Contact Us](https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop/blob/main/Scrren%20Shorts/Contect%20us.png)
+![Contact Us](<ing src="https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop/blob/main/Scrren%20Shorts/Contect%20us.png">)
 
 Thank you for choosing Fresh-N-Fresh Bakery Shop. Let us sweeten your moments! 🎂🥐
